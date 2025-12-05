@@ -3,10 +3,11 @@
 ## What I learned
 - Python basics
 - Data types
-- machine learning introduction
+- file handling in python
+- introduction to pandas
 
 ## Challenges
 - Understanding some model
 
-## Next Week's Goal
-- Learn Pandas
+- ##
+- carried out over 5 mini exercise 
