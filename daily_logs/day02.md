@@ -1,5 +1,6 @@
-[Basic python practices.ipynb](https://github.com/user-attachments/files/24067006/Basic.python.practices.ipynb)
-# Day 02 - python bbasics
+# What i learnt today on python
+
+# Day 02 - python basics
 
 ## what i learned today
 - list
