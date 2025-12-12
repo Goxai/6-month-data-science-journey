@@ -1,0 +1,5 @@
+,name,age,score,status,level
+0,Alice,20,88,pass,normal
+1,Bob,22,95,pass,high
+2,John,19,76,fail,normal
+3,Mary,21,90,pass,high
