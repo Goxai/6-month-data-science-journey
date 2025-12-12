@@ -3,9 +3,10 @@
 # Day 02 - python basics
 
 ## what i learned today
-- list
-- boolean and conditions
-- and continuation of functions
+### list
+### Dictionary
+### boolean and conditions
+### continuation of functions
 
  ## what i practice today
- solved 3 beginner exercise
+ ### solved 3 beginner exercise
