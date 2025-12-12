@@ -1,3 +1,8 @@
+# Project discreption
+This project analyzes the performance of students using Python. 
+The program reads student names and scores, calculates their averages, 
+and visualizes the results using bar charts and histograms.
+
 
 # Student Performance Project
 
