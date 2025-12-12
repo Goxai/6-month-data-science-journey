@@ -7,7 +7,7 @@
 ### sum
 ### max and min
 ### append
-
+## fuctions
 ## Tuple
 ## Loop
 ### For loop
