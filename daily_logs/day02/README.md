@@ -9,4 +9,3 @@
 
  ## what i practice today
  solved 3 beginner exercise
-
