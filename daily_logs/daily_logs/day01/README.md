@@ -1,6 +1,8 @@
 # Day 01 — Python Basics
 ## Topics Covered
-- Variables, loops, conditionals
+### Variables
+### list
+### intro to list
 ## Practice
 - Solved 5 beginner problems
 
