@@ -1,6 +1,6 @@
 # What i learned today
-## Full file handling tutorials
-## working wilth different fle type e.g
+# Full file handling tutorials
+# working wilth different fle type e.g
   
 ## Text files (.txt)
 ## CSV files (.csv)
