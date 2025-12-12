@@ -25,7 +25,37 @@ It helps me build confidence in:
 - DataFrames  
 - Data cleaning  
 - Visualization  
-- Working with Jupyter Notebook  
+- Working with Jupyter Notebook
+## Dataset Description
+
+The dataset used in this project contains two columns:
+
+- **name** – the name of each student  
+- **score** – the performance score of the student
+
+Example:
+
+| name  | score |
+|-------|--------|
+| Alice | 90     |
+| Bob   | 85     |
+| John  | 88     |
+| Mary  | 92     |
+
+## Analysis Summary
+
+The goal of this analysis was to:
+
+- Read student names and scores
+- Calculate each student’s average score
+- Visualize the results with bar charts and histograms
+
+From the dataset:
+
+- **Mary** had the highest score
+- **Bob** had the lowest score
+- Most students scored between 85 and 95
+
 
 ## Files
 - `student_performance.ipynb` — the main notebook
