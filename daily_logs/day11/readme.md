@@ -1,6 +1,6 @@
 # what i did today
 
-## conyinuation on pandas
+## continuation on pandas
 ## manipulating index
 ## assigning data
 ## summary function
