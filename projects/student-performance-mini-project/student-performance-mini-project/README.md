@@ -56,6 +56,16 @@ From the dataset:
 - **Bob** had the lowest score
 - Most students scored between 85 and 95
 
+## Conclusion
+
+This project helped me practice fundamental Python concepts such as:
+- Lists and dictionaries
+- Loops and conditional statements
+- Basic data analysis
+- Data visualization with Matplotlib
+
+It represents my progress in learning Python for data science and will be expanded with more advanced analysis in the future.
+
 
 ## Files
 - `student_performance.ipynb` — the main notebook
