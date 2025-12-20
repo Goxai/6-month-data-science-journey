@@ -1,3 +1,4 @@
+# Day 04
 # What i learned today
 # Full file handling tutorials
 # working wilth different fle type e.g
