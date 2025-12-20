@@ -1,3 +1,4 @@
+# Day 12
 # What I Learned Today
 
 ## Used Pandas `groupby()` to analyze data by category
