@@ -1,3 +1,4 @@
+# Day 03 
 # what i learned today
 
 # Python basics
