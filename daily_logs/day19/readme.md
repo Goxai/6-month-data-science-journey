@@ -5,5 +5,5 @@
 ## remove duplicate
 ## dropna
 ## fillna
-## correct values on a column
+## remove special signs from a column
 ## etc
