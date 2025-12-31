@@ -13,9 +13,9 @@
 ## laptop has good sales count in the west
 ## monitor has a not so good sale count in the east but can be better
 
-# there is a poor sales count in products like desktop and monitor in the west, 
-# poor sales count in desktop o[in the east
-#poor sales count in phone in the south]
+## there is a poor sales count in products like desktop and monitor in the west, 
+## poor sales count in desktop o[in the east
+## poor sales count in phone in the south]
 
 # Recommendations
 
