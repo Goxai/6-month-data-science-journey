@@ -2,5 +2,5 @@
 
 # Today i started the introduction into numpy
 # handling outliers
-# oercentile
+# percentile
 # array properties
