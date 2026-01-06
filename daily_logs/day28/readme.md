@@ -5,3 +5,5 @@
 ## how to ask the right questions
 ## bias
 ## missing values
+# intoduction to matplotlib
+## continuation on numpy
