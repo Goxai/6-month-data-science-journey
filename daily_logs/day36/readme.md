@@ -1,4 +1,4 @@
-# Day 35
+# Day 36
 ## i started and completed the House Prices EDAproject
 
 - Detected and analyzed outliers using scatter plots  
