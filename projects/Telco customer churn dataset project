@@ -1,0 +1,125 @@
+
+
+# Today i started and completed the Telco customer churn dataset project.
+
+# TELECOM CHURN — FINAL ANALYTICAL REPORT
+
+## Business Question
+Why are customers leaving (churning), and what should management prioritize to reduce churn?
+
+## Key Findings (What the data actually shows)
+
+## 1) Internet Service — STRONGEST DRIVER
+
+Fiber optic customers churn the most (~42%), far higher than DSL (~19%) and No internet (~7%).
+
+This signals quality, speed, or reliability problems with Fiber service, not customer behavior.
+
+## Conclusion:
+Poor internet experience is a primary cause of churn.
+
+## 2) Tech Support — CRITICAL FACTOR
+
+Customers without tech support churn ~42%, compared to ~15% when support is available.
+
+Customers with “No internet service” almost never churn.
+
+## Conclusion:
+Lack of accessible and effective tech support is pushing customers away.
+
+## 3) Online Security — MAJOR ISSUE
+
+No online security → ~42% churn
+
+With online security → ~15% churn
+
+## Conclusion:
+Customers value security. Not offering it widely increases churn.
+
+## 4) Monthly Charges — PRICE SENSITIVITY EXISTS
+
+High monthly charges → ~35% churn
+
+Mid → ~24%
+
+Low → ~12%
+
+## Conclusion:
+High prices increase churn, but price is NOT the main problem — service quality is.
+
+## 5) Senior Citizens — HIGH-RISK GROUP
+
+Senior citizens churn ~42% vs ~24% for non-seniors.
+
+## Interpretation:
+Older users likely struggle with:
+
+Complex plans
+
+Poor support
+
+Technology issues
+
+They leave faster when frustrated.
+
+## 6) Gender — NOT IMPORTANT
+
+Male and female churn rates are almost identical.
+
+Gender does NOT drive churn.
+
+## 7) TotalCharges — MISLEADING IF USED ALONE
+
+Low TotalCharges customers churn more because they are new customers (short tenure), not because they paid less.
+
+The real issue = early customer experience, not total money spent.
+
+## What Really Causes Churn (Ranked)
+
+Internet service quality (Fiber issues) — #1 problem
+
+Lack of tech support — #2 problem
+
+No online security — #3 problem
+
+High monthly charges — secondary factor
+
+Senior citizen experience — needs special care
+
+Gender — irrelevant
+
+# Your Corrected Business Recommendation (stronger version)
+
+Instead of “lower price first,” the data supports this order:
+
+## Step 1 — Fix the product (most important)
+
+Improve Fiber reliability and speed
+
+Reduce outages and buffering
+
+Monitor complaints from Fiber users
+
+## Step 2 — Strengthen support
+
+More customer support agents
+
+Faster response time
+
+Dedicated help for seniors
+
+## Step 3 — Expand Online Security
+
+Offer it by default or at low cost
+
+Market it clearly as a safety benefit
+
+## Step 4 — Only then consider price changes
+
+Reduce prices only after service improves
+
+Otherwise you lose money without reducing churn.
+
+# One-line takeaway for management
+
+“Customers are not leaving because of price — they are leaving because the internet quality and support experience are poor.”
