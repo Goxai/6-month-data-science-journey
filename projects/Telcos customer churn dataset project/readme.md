@@ -84,9 +84,7 @@ Senior citizen experience — needs special care
 
 Gender — irrelevant
 
-# Your Corrected Business Recommendation (stronger version)
-
-Instead of “lower price first,” the data supports this order:
+# Business Recommendation
 
 ## Step 1 — Fix the product (most important)
 
